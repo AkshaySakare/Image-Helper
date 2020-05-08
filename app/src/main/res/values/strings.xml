@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vsm Helper</string>
+    <string name="aadharcard">AadharCard</string>
+    <string name="pancard">PanCard</string>
+    <string name="no_userName">Name Field empty</string>
+    <string name="vsm">VSM</string>
+    <string name="save_file">File successfully  save</string>
+    <string name="failed">\"File failed to save.Source file missing.</string>
+    <string name="userName">Name</string>
+</resources>
